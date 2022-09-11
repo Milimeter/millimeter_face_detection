@@ -95,7 +95,7 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.8.0"
-  owl_detection_camera:
+  millimeter_face_detection:
     dependency: "direct main"
     description:
       path: ".."

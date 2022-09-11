@@ -2,8 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:owl_detection_camera/owl_camera_defines.dart';
-import 'package:owl_detection_camera/owl_detection_camera.dart';
+import 'package:millimeter_face_detection/owl_camera_defines.dart';
+import 'package:millimeter_face_detection/owl_detection_camera.dart';
+
 import 'package:permission_handler/permission_handler.dart';
 
 class Preview extends StatefulWidget {

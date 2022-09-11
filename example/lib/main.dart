@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:owl_detection_camera/owl_detection_camera.dart';
+import 'package:millimeter_face_detection/owl_detection_camera.dart';
 import 'package:owl_detection_camera_example/preview.dart';
 
 void main()
